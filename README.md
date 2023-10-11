@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xavier Albanell</h1>
-<h3 align="center">A passionate video game programer and developer</h3>
+<h3 align="center">A passionate video game programmer and developer</h3>
 
 - 🔭 I’m currently working on [LaBEErynth (personal project)](https://xavalma.itch.io/labeerynth)
 
